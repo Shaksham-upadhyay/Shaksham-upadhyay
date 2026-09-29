@@ -35,9 +35,9 @@ TIT Bhopal • RGPV • 2023–2027
 
 ## 💼 Experience & Training
 
-- **Machine Learning Internship — Cybrom Bhopal**
+- **Machine Learning Internship — 
   - Python, libraries and machine-learning fundamentals
-- **Python Full Stack Training — DNDC Bhopal**
+- **Python Full Stack Training — Cousera**
 
 ## 🚀 Featured Projects
 
