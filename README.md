@@ -6,7 +6,7 @@
   <img alt="Shaksham Upadhyay GitHub profile" src="./light.svg">
 </picture>
 
-## `whoami`
+## `who am i`
 
 B.Tech CSE-AI student and aspiring full-stack developer interested in building practical applications with **Python, Django, React and AI/ML**.
 
@@ -22,7 +22,7 @@ FOCUS
 
 | Area | Technologies |
 |---|---|
-| Languages | Python, JavaScript, HTML, CSS |
+| Languages | Python, JavaScript, HTML, CSS, C++|
 | Backend | Django |
 | Frontend | React |
 | AI / ML | Machine Learning, Python libraries |
@@ -51,7 +51,7 @@ TIT Bhopal • RGPV • 2023–2027
 
 - GitHub: [https://github.com/Shaksham-upadhyay](https://github.com/Shaksham-upadhyay)
 - LinkedIn: [https://www.linkedin.com/in/shaksham-upadhyay-1bb607303](https://www.linkedin.com/in/shaksham-upadhyay-1bb607303)
-- Portfolio: Coming soon
+- Email: sakshamupadhyay83@gmail.com
 
 ---
 
