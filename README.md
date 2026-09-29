@@ -1,65 +1,47 @@
 # 👋 Shaksham Upadhyay
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Shaksham Upadhyay GitHub profile" src="./light.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="Shaksham Upadhyay - Premium GitHub Profile" src="./dark.svg">
+  </picture>
+</p>
 
-## `whoami`
+## 👨‍💻 About Me
 
-B.Tech CSE-AI student and aspiring full-stack developer interested in building practical applications with **Python, Django, React and AI/ML**.
-
-```text
-FOCUS
-├── Full Stack Development
-├── Python & Django
-├── React & JavaScript
-└── AI / Machine Learning
-```
+B.Tech CSE-AI student at **TIT Bhopal, RGPV (2023–2027)**, interested in full-stack development and AI/ML. I enjoy building practical applications and continuously improving my software development and problem-solving skills.
 
 ## 🛠️ Tech Stack
 
-| Area | Technologies |
+`C` `C++` `Python` `Django` `Django REST Framework` `React.js` `JavaScript` `HTML` `CSS` `AI/ML` `Git` `GitHub`
+
+## 🚀 Projects
+
+| Project | Technologies |
 |---|---|
-| Languages | Python, JavaScript, HTML, CSS |
-| Backend | Django |
-| Frontend | React |
-| AI / ML | Machine Learning, Python libraries |
-| Tools | Git, GitHub |
+| **Todo List** | Django, HTML, CSS |
+| **Car Booking Site** | Django, HTML, CSS |
+| **Coding Competition Platform** | Django REST Framework, React.js |
 
-## 🎓 Education
+## 🏆 Certifications & Training
 
-**B.Tech — Computer Science & Engineering (AI)**  
-TIT Bhopal • RGPV • 2023–2027
+- AI/ML — Cybrom Bhopal
+- Full Stack Development — DNDC Bhopal
+- AI/ML — Ramrajya Technology
+- Full Stack Development — Coursera
 
-## 💼 Experience & Training
+## 📚 Currently Learning
 
-- **Machine Learning Internship — Cybrom Bhopal**
-  - Python, libraries and machine-learning fundamentals
-- **Python Full Stack Training — DNDC Bhopal**
+- React.js
+- REST APIs / Django REST Framework
 
-## 🚀 Featured Projects
+## 🎯 Career Direction
 
-> Add your best 2–4 repositories here as you build them.
+Aspiring Full Stack Developer with a strong interest in AI/ML, focused on building practical, scalable applications and continuously improving software engineering skills.
 
-- **AI / ML Project** — `Repository link`
-- **Python / Django Full Stack Project** — `Repository link`
-- **React Project** — `Repository link`
+## 🔗 Connect
 
-## 📫 Connect
-
-- GitHub: [https://github.com/Shaksham-upadhyay](https://github.com/Shaksham-upadhyay)
-- LinkedIn: [https://www.linkedin.com/in/shaksham-upadhyay-1bb607303](https://www.linkedin.com/in/shaksham-upadhyay-1bb607303)
-- Portfolio: Coming soon
-
----
-
-### GitHub Profile
-
-```text
-$ git status
-
-student developer
-learning → building → improving
-```
+- **GitHub:** [Shaksham-upadhyay](https://github.com/Shaksham-upadhyay)
+- **LinkedIn:** [Shaksham Upadhyay](https://www.linkedin.com/in/shaksham-upadhyay-1bb607303)
+- **Email:** [sakshamupadhyay83@gmail.com](mailto:sakshamupadhyay83@gmail.com)
